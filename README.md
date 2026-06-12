@@ -4,7 +4,7 @@ CS Engineering undergrad @ D.Y. Patil COE, Pune | Full-Stack Dev | Batch of 2027
 
 ---
 
-### 🧠 What I'm about
+### 💡 About Me
 I build complete, working web applications — frontend to backend.
 Currently exploring AI integrations as part of my projects.
 
@@ -19,7 +19,7 @@ Currently exploring AI integrations as part of my projects.
 | **AgriWeather** | Crop-season weather tracker | Python, OpenWeatherMap API |
 
 ---
-### 🛠️ Tech I work with
+### ⚙️ Technologies & Tools
 
 **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -45,5 +45,13 @@ Currently exploring AI integrations as part of my projects.
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 
-### 📬 Let's connect
+🎯 Currently Exploring
+
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- AI Integration in Web Applications
+- Scalable Backend Systems
+
+
+### 📫 Reach Out
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/radhikafasate)
